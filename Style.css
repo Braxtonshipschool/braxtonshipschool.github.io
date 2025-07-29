@@ -1,3 +1,8 @@
 body {
   background: url("BackgroundTexture.jpeg")
 }
+
+.divLink1 {
+  border-radius: 25px;
+  margin: auto;
+}
