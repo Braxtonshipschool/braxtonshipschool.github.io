@@ -2,7 +2,7 @@ body {
   background: url("BackgroundTexture.jpeg")
 }
 
-textWhite {
+.textWhite {
   font-family: arial;
   color: white;
 }
