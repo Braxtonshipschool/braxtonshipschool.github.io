@@ -2,6 +2,7 @@ body {
   background: url("BackgroundTexture.jpeg")
 }
 
-.divone {
-  margin: auto
+div {
+  width: 300px;
+  margin: auto;
 }
