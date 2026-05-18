@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="Style.css">
+    <title>rabbit proof fence</title>
+  </head>
+
+  <body>
+    <div style="background-color:green; border-radius:10px; text-align: center">
+        <h1 class="textWhiteCenter" style="background-color:darkgreen; border-radius:10px" >INTRODUCTION</h1>
+        <p style="background-color:green; border-radius:10px; text-align: center">
+            The movie: Rabbit Proof Fence examines belonging and identity in Aboriginal First Nations People through the experiences of the Stolen Generation. it follows the story of three girls from said Stolen Generation torn away from their family. The main character Molly escapes Morre River with her sister, Daisy and cousin, Gracie, to return home to her family
+        </p>
+        <h1 class="textWhiteCenter" style="background-color:darkgreen; border-radius:10px" >INTRODUCTION</h1>
+        <p style="background-color:green; border-radius:10px; text-align: center">
+
+        </p>
+    </div>
+  </body>
+</html>
