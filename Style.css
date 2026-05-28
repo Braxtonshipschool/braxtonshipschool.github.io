@@ -2,10 +2,6 @@ body {
   background: url("BackgroundTexture.jpeg")
 }
 
-h1 {
-  font-family: arial;
-}
-
 .textStrokeBlack {
   font-family: arial;
   color: White;
